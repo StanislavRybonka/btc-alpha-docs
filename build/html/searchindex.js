@@ -1,1 +1,1 @@
-Search.setIndex({envversion:50,filenames:["btc-alpha-api","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,index:1,modul:1,page:1,search:1},titles:["Btc api","Welcome to btc-alpha&#8217;s documentation!"],titleterms:{alpha:1,api:0,btc:[0,1],document:1,indice:1,tabl:1,welcom:1}})
+Search.setIndex({envversion:50,filenames:["btc.api","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,index:1,modul:1,page:1,search:1},titles:["Btc api","Welcome to btc-alpha&#8217;s documentation!"],titleterms:{alpha:1,api:0,btc:[0,1],document:1,indice:1,tabl:1,welcom:1}})
