@@ -1,8 +1,7 @@
-Btc-Alpha's API V1
+BTC-Alpha's API V1
 ==================
 
-* Introduction
-
+.. important:: Introduction ``.. important::``
 
 * Requesting an API key
 
