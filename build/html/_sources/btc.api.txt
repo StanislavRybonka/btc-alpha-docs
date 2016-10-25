@@ -1,2 +1,2 @@
-Btc api
-=======
+Btc-Alpha's API
+===============
