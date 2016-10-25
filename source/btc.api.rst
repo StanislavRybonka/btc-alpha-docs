@@ -24,3 +24,14 @@ REST
      As an example of how to authenticate, we can look at the “account_infos” endpoint. Take the example payload
      to the right.
 
+**Parameters**
+--------------
+   Requests parameters for POST requests (authenticated):
+
+    /v1/call/?parameter=2
+
+   Requests parameters for GET requests (non-authenticated) are GET parameters, appended to the URL being called as follows:
+
+    /v1/call/?parameter=1
+
+

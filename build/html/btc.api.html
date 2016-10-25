@@ -68,10 +68,26 @@ an API key and an API secret using this page</div></blockquote>
 <div class="section" id="general">
 <h2><strong>General</strong><a class="headerlink" href="#general" title="Permalink to this headline">¶</a></h2>
 </div>
-<div class="section" id="url">
-<h2><strong>URL</strong><a class="headerlink" href="#url" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="authentication">
+<h2><strong>Authentication</strong><a class="headerlink" href="#authentication" title="Permalink to this headline">¶</a></h2>
 <blockquote>
-<div><a class="reference external" href="http://btc-alpha.com/api.v1.finance.api">http://btc-alpha.com/api.v1.finance.api</a></div></blockquote>
+<div><dl class="docutils">
+<dt>Authentication is done using an API key and a secret.To generate this pair, go to the API Access page.</dt>
+<dd>As an example of how to authenticate, we can look at the “account_infos” endpoint. Take the example payload
+to the right.</dd>
+</dl>
+</div></blockquote>
+</div>
+<div class="section" id="parameters">
+<h2><strong>Parameters</strong><a class="headerlink" href="#parameters" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>Requests parameters for POST requests (authenticated):</p>
+<blockquote>
+<div>/v1/call/?parameter=2</div></blockquote>
+<p>Requests parameters for GET requests (non-authenticated) are GET parameters, appended to the URL being called as follows:</p>
+<blockquote>
+<div>/v1/call/?parameter=1</div></blockquote>
+</div></blockquote>
 </div>
 </div>
 
@@ -90,7 +106,8 @@ an API key and an API secret using this page</div></blockquote>
 </li>
 <li><a class="reference internal" href="#rest">REST</a><ul>
 <li><a class="reference internal" href="#general"><strong>General</strong></a></li>
-<li><a class="reference internal" href="#url"><strong>URL</strong></a></li>
+<li><a class="reference internal" href="#authentication"><strong>Authentication</strong></a></li>
+<li><a class="reference internal" href="#parameters"><strong>Parameters</strong></a></li>
 </ul>
 </li>
 </ul>
