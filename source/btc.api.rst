@@ -1,5 +1,5 @@
-BTC-Alpha's API V1
-==================
+**BTC-Alpha's API V1**
+
 
 .. important:: Introduction ``.. important::``
 
