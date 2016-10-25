@@ -12,3 +12,15 @@ BTC-Alpha's API V1
           In order to access the parts of the API which require authentication, you must generate
           an API key and an API secret using this page
 
+REST
+====
+
+**General**
+-----------
+
+**Authentication**
+------------------
+    Authentication is done using an API key and a secret.To generate this pair, go to the API Access page.
+     As an example of how to authenticate, we can look at the “account_infos” endpoint. Take the example payload
+     to the right.
+
