@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   btc-alpha-api
 
 Indices and tables
 ==================
