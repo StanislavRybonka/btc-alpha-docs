@@ -49,7 +49,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'btc-alpha'
+project = 'BTC-Alpha'
 copyright = '2016, Vitaliy Bodnar'
 author = 'Vitaliy Bodnar'
 
