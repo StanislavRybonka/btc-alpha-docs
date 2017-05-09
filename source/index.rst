@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 BTC-Alpha API docs
 ==================
-`Documentation available here <https://btc-alpha.github.io/api-docs/>`_
+`Documentation available here >> <https://btc-alpha.github.io/api-docs/>`_
 
 
 
